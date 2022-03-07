@@ -22,4 +22,4 @@ else:
     print ('The sequence is not DNA nor RNA')
 
 
-esto es una prueba
+
